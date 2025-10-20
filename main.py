@@ -1,5 +1,5 @@
-st.title("Mehmet Zeki Çelik")
 import streamlit as st
+st.title("Mehmet Zeki Çelik")
 
 bordro=st.checkbox("Bordro")
 gelir=st.number_input("Brüt Yıllık Gelirinizi Giriniz")
